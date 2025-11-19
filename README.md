@@ -1,5 +1,5 @@
 # Motor-Soft-Starter_For_Inverters
-Eliminate damaging startup surges &amp; protect your inverter! Our Soft Starter ensures smooth, reliable starts for 1 HP, 1.5 HP, 2HP and 2.5HP, 220V motors (pumps, compressors, HVAC). Prevents tripping, extends motor life, and is easy to install. Delivery across Pakistan. Contact: 03342159444.
+Eliminate damaging startup surges &amp; protect your inverter! Our Soft Starter ensures smooth, reliable starts for 1 HP, 1.5 HP, 2HP and 2.5HP, 220V motors (pumps, compressors, HVAC). Prevents tripping, extends motor life, and is easy to install. Delivery across Pakistan and internationally. Contact: 03342159444.
 Product Description (Short Version)
 "Protect your inverter and extend motor life. Our Soft Starter eliminates damaging startup surges in single-phase motors, providing smooth, reliable starts without tripping your power source. Essential for pumps, compressors, and heavy equipment. "
 # Key-Features 
