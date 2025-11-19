@@ -23,9 +23,5 @@ delievery:
 - contact = 03342159444 (whatsapp and mobile)
 <img width="719" height="620" alt="Capture" src="https://github.com/user-attachments/assets/85d218d0-5ffd-470a-9f25-d40e0682b6e7" />
 <img width="480" height="532" alt="Capture1" src="https://github.com/user-attachments/assets/6d2baa75-9a41-48f0-bf3c-9f4200b809d5" />
-![IMG-20251110-WA0001](https://github.com/user-attachments/assets/5edf3809-51f1-4201-a839-937482bde7da)
-![IMG-20251110-WA0002](https://github.com/user-attachments/assets/d86556c9-b282-4b57-b91b-8189bdf6c86c)
-![IMG-20251110-WA0003](https://github.com/user-attachments/assets/3221d099-1215-40bd-8b87-fcb72aec0580)
-![IMG-20251110-WA0004](https://github.com/user-attachments/assets/09352315-156b-47c7-afe5-956c49a40415)
-![IMG-20251110-WA0005](https://github.com/user-attachments/assets/7b684f6d-d9b1-4483-8120-0ece34602769)
-![IMG-20251110-WA0006](https://github.com/user-attachments/assets/d66936ed-41f0-4b79-b26b-9c7afc1199bb)
+
+![IMG-20251110-WA0001](https://github.com/user-attachments/assets/6830df1a-9549-4e29-a4c0-82782326730f)
