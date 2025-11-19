@@ -21,7 +21,11 @@ project:
 delievery:
 - available in all over pakistan and internationally. 
 - contact = 03342159444 (whatsapp and mobile)
-<img width="719" height="620" alt="Capture" src="https://github.com/user-attachments/assets/85d218d0-5ffd-470a-9f25-d40e0682b6e7" />
-<img width="480" height="532" alt="Capture1" src="https://github.com/user-attachments/assets/6d2baa75-9a41-48f0-bf3c-9f4200b809d5" />
-
-![IMG-20251110-WA0001](https://github.com/user-attachments/assets/6830df1a-9549-4e29-a4c0-82782326730f)
+![IMG-20251110-WA0006](https://github.com/user-attachments/assets/d5df3f5e-ec0f-4d2f-8a1c-d16335ec76f8)
+![IMG-20251110-WA0005](https://github.com/user-attachments/assets/ede97fe3-6bc0-4c8e-a712-4b13f0849f81)
+![IMG-20251110-WA0004](https://github.com/user-attachments/assets/a0e9e9b7-ada9-47c0-99a9-51e044130b6b)
+![IMG-20251110-WA0003](https://github.com/user-attachments/assets/5024d8fd-4dd1-4706-9f08-3f5211df4954)
+![IMG-20251110-WA0002](https://github.com/user-attachments/assets/c0a1d0ad-60d6-4581-8c85-5d73787c0335)
+![IMG-20251110-WA0001](https://github.com/user-attachments/assets/48f5d221-4c5a-4b96-bfbc-705364b7e578)
+<img width="480" height="532" alt="Capture1" src="https://github.com/user-attachments/assets/3f4bfae7-55ec-4b26-ac6b-fb3267a62955" />
+<img width="719" height="620" alt="Capture" src="https://github.com/user-attachments/assets/ab9797fd-948f-4c03-88c9-a5052627c05e" />
