@@ -5,7 +5,7 @@ Product Description (Short Version)
 # Key-Features 
 -  Stops Inverter Tripping – Limits inrush current to safe levels
 -  Automatic Operation – Self-bypasses after smooth startup
--  Universal Compatibility – Works with 1-2HP, 220V single-phase motors
+-  Universal Compatibility – Works with 1-2.5 HP, 220V single-phase motors
 -  Robust Design – Industrial-grade components for long-term reliability
 -  Easy Installation – Simple wiring with clear documentation
 # Perfect For
